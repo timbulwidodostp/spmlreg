@@ -1,5 +1,18 @@
-d 'DEA': Data envelopment analysis
+d 'spmlreg': Estimates the spatial lag, the spatial error, the spatial durbin, and the general spatial models by maximum likelihood Use spmlreg With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f lsplagvar.mlib
+f lspwmatrix.mlib
+f splagvar.ado
+f splagvar.hlp
+f splagvar.mata
+f splagvar_randper.ado
+f spmlreg.ado
+f spmlreg.sthlp
+f spmlreg_error.ado
+f spmlreg_estat.ado
+f spmlreg_lag.ado
+f spmlreg_postestimation.sthlp
+f spmlreg_sac.ado
+f spwmatrix.ado
+f spwmatrix.mata
+f spwmatrix.sthlp
