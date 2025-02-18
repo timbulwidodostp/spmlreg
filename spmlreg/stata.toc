@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p spmlreg Estimates the spatial lag, the spatial error, the spatial durbin, and the general spatial models by maximum likelihood Use spmlreg With STATA 18
