@@ -1,6 +1,8 @@
 # spmlreg
 Estimates the spatial lag, the spatial error, the spatial durbin, and the general spatial models by maximum likelihood Use spmlreg With STATA 18
 
+https://www.youtube.com/watch?v=HPiBDJI3bcg
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
